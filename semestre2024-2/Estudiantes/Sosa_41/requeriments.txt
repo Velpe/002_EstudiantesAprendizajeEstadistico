@@ -6,3 +6,4 @@ numpy
 scipy
 sympy
 scikit-learn
+tensorflow
